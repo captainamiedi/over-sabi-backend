@@ -1,0 +1,9 @@
+Flask==2.3.2
+Flask_Cors==4.0.0
+chromadb==0.3.26
+Gunicorn
+langchain==0.0.228
+openai==0.27.8
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+tiktoken==0.4.0
